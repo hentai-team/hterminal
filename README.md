@@ -1,5 +1,7 @@
 # hterminal - multifunctional terminal application
 
+![HTerm Logo](https://github.com/hentai-team/hterm/blob/main/assets/hterm-splash.png?raw=true)
+
 ## Development status
 
 ## Hello, world!
